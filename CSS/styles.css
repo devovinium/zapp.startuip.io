@@ -1,0 +1,13 @@
+h1 {
+    color: purple;
+}
+
+.btn-danger {
+    background-color: purple;
+    color: white;
+}
+
+.btn-danger:hover {
+    background-color: orange;
+    color: blue;
+}
